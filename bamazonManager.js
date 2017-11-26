@@ -70,3 +70,7 @@ function lowInventory() {
         managerStart();
     })
 }
+
+function addToInventory(){
+    
+}
